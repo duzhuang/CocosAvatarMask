@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "mask-avatar-texture2d",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "b9a6b397-840f-4fb9-8d5b-d5d0673ea6b1"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "wh_ratio": 2
+      }
+    }
+  }
+}
